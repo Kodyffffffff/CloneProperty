@@ -1,3 +1,3 @@
 # CloneProperty
-sanity : https://cloneproperty.sanity.studio (backend)
+sanity (backend)
 deploy heroku : https://clone-property.herokuapp.com/
